@@ -10,12 +10,12 @@ silviosantini7401@gmail.com
 
 # Individual Projects:
 ### Calculator
-  -Basic code that renders a calculator where you can hover over buttons uses mouse press features to calculate basic math.
+  - Basic code that renders a calculator where you can hover over buttons uses mouse press features to calculate basic math.
 
 ### PigLatin
-  -Basic code that converts a typed word into the PigLatin languge varient of it.
+  - Basic code that converts a typed word into the PigLatin languge varient of it.
 
 ### Screensaver
-  -Code that renders a randomly generated screensaver.
+  - Code that renders a randomly generated screensaver.
 
 ### Temperature Converter
