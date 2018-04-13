@@ -11,7 +11,7 @@ silviosantini7401@gmail.com
 # Individual Projects:
 ### Calculator
   - Basic code that renders a calculator where you can hover over buttons uses mouse press features to calculate basic math.
-
+  - ![Calculator](https://raw.githubusercontent.com/Silvio7401/Calculator/master/Calc.png)
 
 [Source Code](https://github.com/Silvio7401/Calculator/tree/master/SRC)
 
