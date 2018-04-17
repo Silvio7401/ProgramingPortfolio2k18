@@ -9,7 +9,10 @@ silviosantini7401@gmail.com
   -Our group project for 2017-2018 is a single-player game where the user controls a ship with his mouse and attempts to avoid an enemy ship.
   - Gui mockup
   - ![Gui mockup](https://user-images.githubusercontent.com/26355832/36695422-8c9c630c-1afe-11e8-9d4d-e2f0022949b5.png)
-
+  
+  - Running Code
+  - ![Running code](https://user-images.githubusercontent.com/26355832/38640418-71fee262-3d91-11e8-979f-ec8e61fca1e3.png)
+	
 # Individual Projects:
 ### Calculator
   - Basic code that renders a calculator where you can hover over buttons uses mouse press features to calculate basic math.
