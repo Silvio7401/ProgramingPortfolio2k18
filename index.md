@@ -7,6 +7,8 @@ silviosantini7401@gmail.com
 # Group Projects:
 ### Space Game
   -Our group project for 2017-2018 is a single-player game where the user controls a ship with his mouse and attempts to avoid an enemy ship.
+  - Gui mockup
+  - ![Gui mockup](https://user-images.githubusercontent.com/26355832/36695422-8c9c630c-1afe-11e8-9d4d-e2f0022949b5.png)
 
 # Individual Projects:
 ### Calculator
