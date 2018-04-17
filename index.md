@@ -17,7 +17,26 @@ silviosantini7401@gmail.com
 
 ### PigLatin
   - Basic code that converts a typed word into the PigLatin languge varient of it.
+```
+import java.util.Scanner;
 
+public class PigLatin {
+	public static void main(String[] args) {
+		Scanner keyboard = new Scanner (System.in);
+		String Str1, Str2;
+		System.out.print("Enter a Word to translate to Pig Latin: ");
+		Str1 = keyboard.nextLine();
+		Str2 = Str1.substring(0,1);
+		char first = Str1.charAt(0);
+		if (first == 'a' || first == 'e' || first == 'i' || first == 'o' || first == 'u') {
+			System.out.println("Your new word is: " + Str1.substring(0) + "ay");
+		}else {
+			System.out.println("Your new word is: " + Str1.substring(1) + Str2 + "ay");
+		}
+
+	}
+}
+```
 ### Screensaver
   - Code that renders a randomly generated screensaver.
 
