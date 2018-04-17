@@ -40,6 +40,9 @@ public class PigLatin {
 ### Screensaver
   - Code that renders a randomly generated screensaver.
   
-  [Source Code](https://github.com/Silvio7401/Screen/tree/master/SRC)
+  [Source Code](https://github.com/Silvio7401/Screen/blob/master/SRC/ScreenSaver_App.pde)
 
 ### Temperature Converter
+  - Code that lets you mouse over a celius value and instantly know the corresponding value in Fahrenheit.
+  
+  [Source Code](https://github.com/Silvio7401/Temp/blob/master/SRC/temp_converter.pde)
