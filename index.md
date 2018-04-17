@@ -44,6 +44,6 @@ public class PigLatin {
 
 ### Temperature Converter
   - Code that lets you mouse over a celius value and instantly know the corresponding value in Fahrenheit.
-  - ![Tempscale](https://raw.githubusercontent.com/Silvio7401/Temp/blob/master/Temp.png)
+  - ![Tempscale](https://raw.githubusercontent.com/Silvio7401/Temp/master/Temp.png)
   
   [Source Code](https://github.com/Silvio7401/Temp/blob/master/SRC/temp_converter.pde)
